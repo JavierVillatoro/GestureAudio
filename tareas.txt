@@ -1,0 +1,6 @@
+cambiar los valores midi 
+corregir nombre de los midis (posicion)
+hacer programa entero , primero seleccionar midi 
+mirar cosas mejores para requirements , que no este en requirements 
+llamar a funciones en el main 
+Grabacion de audio en tiempo real en c

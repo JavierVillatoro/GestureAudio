@@ -1,0 +1,7 @@
+mido
+opencv-python
+pygrabber
+mediapipe
+numpy
+sounddevice
+matplotlib
