@@ -8,11 +8,11 @@ port1 = mido.open_output("loopMIDI Port 1 2")
 #CORREGIR NOMBRE DE DISTANCIAS 
 # Lista de CC que se enviarán con sus descripciones
 cc_controls = [
-    (21, "distancia entre el pulgar y el índice de la primera mano"),
-    (22, "distancia entre el pulgar y el índice de la segunda mano"),
-    (23, "distancia entre los puntos medios de ambas manos"),
-    (24, "distancia horizontal del punto central entre las manos con respecto al centro de la imagen"),
-    (25, "distancia vertical del punto central entre las manos con respecto al centro de la imagen")
+    (21, "horizontal----panning"),
+    (22, "vertical----amplitud"),
+    (23, "pulgar indice 1"),
+    (24, "pulgar indice 2"),
+    (25, "entre manos---filtro")
 ]
 
 cc_value = 64  # Valor inicial para enviar en el mensaje CC

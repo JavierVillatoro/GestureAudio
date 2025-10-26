@@ -5,3 +5,4 @@ mediapipe
 numpy
 sounddevice
 matplotlib
+pedalboard
